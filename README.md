@@ -26,3 +26,15 @@ Interactive HR Analytics Dashboard developed in Power BI to analyze workforce de
 - HR_Analytics.pbix
 - Dashboard PDF
 - Dataset
+
+# HR Analytics Dashboard
+
+## Dashboard Preview
+
+![Overview](overview.jpg)
+
+![Attrition](attrition.jpg)
+
+![Demographics](demographics.jpg)
+
+![Performance](performance.jpg)
